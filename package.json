@@ -34,7 +34,7 @@
       "title": "Case-Sensitive Sorting",
       "description": "Use case-sensitive sorting, otherwise use case-insensitive sorting. Unavailable when the tree-view-sort package is disabled.",
       "type": "boolean",
-      "default": true,
+      "default": false,
       "order": 2
     },
     "isSortFolder": {
